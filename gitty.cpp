@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {    
-    std::cout << "Hello, World!, how is the world?" << std::endl;
+    std::cout << "Hello, World!,weather is nice today" << std::endl;
     return 0;
 }
